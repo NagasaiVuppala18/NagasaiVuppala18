@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,java,python,javascript,html,css,bootstrap,mysql,react,vite,console,nmap,wordpress,canava,springboot,spring,tomcat,vercel,git,gitbucket,mongodb,express,angular,node,npmtypescriptvim" />
+    <img src="https://skillicons.dev/icons?i=git,c,java,python,javascript,html,css,bootstrap,mysql,react,vite,wordpress,springboot,vercel,gitlab,mongodb,express,angular,nodejs,npm,typescript,vim" />
   </a>
 </p>
